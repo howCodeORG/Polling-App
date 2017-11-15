@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 15 Jun 2016 17:02:51 GMT
+Server: nginx
+Content-Length: 281
+Content-Type: application/json; charset=utf-8
+
+{"id":"title","column_name":"title","type":"VARCHAR","char_length":"255","is_nullable":"YES","comment":"","sort":3,"ui":"textinput","system":false,"master":false,"hidden_list":false,"hidden_input":false,"required":false,"column_type":"varchar(255)","is_writable":true,"options":[]}

@@ -1,0 +1,22 @@
+.list-group-item {
+  position:relative;
+}
+
+.list-group-item div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50%;
+  height:100%;
+  background-color:#d3ecf7;
+  z-index:0;
+  -webkit-transition:all ease 0.8s;
+  -moz-transition:all ease 0.8s;
+  transition:all ease 0.8s;
+  opacity:0;
+}
+
+.list-group-item span {
+  position:relative;
+  z-index:1;
+}

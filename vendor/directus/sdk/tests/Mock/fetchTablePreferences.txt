@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 15 Jun 2016 17:02:51 GMT
+Server: nginx
+Content-Length: 168
+Content-Type: application/json; charset=utf-8
+
+{"id":"9","user":"1","table_name":"articles","title":null,"columns_visible":"title,body,tags,author","sort":"id","sort_order":"ASC","active":"1,2","search_string":null}

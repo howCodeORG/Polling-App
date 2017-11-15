@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 15 Jun 2016 17:02:51 GMT
+Server: nginx
+Content-Length: 328
+Content-Type: application/json; charset=utf-8
+
+{"Active":1,"Delete":0,"Draft":0,"total":1,"rows":[{"id":1,"active":1,"name":"00000000001.jpg","url":null,"title":"Image","location":"","caption":"","type":"image\/jpeg","charset":"binary","tags":"","width":447,"height":301,"size":50410,"embed_id":null,"user":1,"date_uploaded":"2016-06-17 02:00:30","storage_adapter":"local"}]}

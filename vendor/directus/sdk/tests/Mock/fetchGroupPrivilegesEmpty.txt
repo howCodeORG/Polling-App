@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 15 Jun 2016 17:02:51 GMT
+Server: nginx
+Content-Length: 1156
+Content-Type: application/json; charset=utf-8
+
+[{"table_name":"articles","group_id":"30","status_id":null},{"table_name":"comments","group_id":"30","status_id":null},{"table_name":"directus_activity","group_id":"30","status_id":null},{"table_name":"directus_bookmarks","group_id":"30","status_id":null},{"table_name":"directus_columns","group_id":"30","status_id":null},{"table_name":"directus_files","group_id":"30","status_id":null},{"table_name":"directus_groups","group_id":"30","status_id":null},{"table_name":"directus_messages","group_id":"30","status_id":null},{"table_name":"directus_messages_recipients","group_id":"30","status_id":null},{"table_name":"directus_preferences","group_id":"30","status_id":null},{"table_name":"directus_privileges","group_id":"30","status_id":null},{"table_name":"directus_schema_migrations","group_id":"30","status_id":null},{"table_name":"directus_settings","group_id":"30","status_id":null},{"table_name":"directus_storage_adapters","group_id":"30","status_id":null},{"table_name":"directus_tables","group_id":"30","status_id":null},{"table_name":"directus_ui","group_id":"30","status_id":null},{"table_name":"directus_users","group_id":"30","status_id":null}]

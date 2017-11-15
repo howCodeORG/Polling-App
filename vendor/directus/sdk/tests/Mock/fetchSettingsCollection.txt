@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 15 Jun 2016 17:02:51 GMT
+Server: nginx
+Content-Length: 167
+Content-Type: application/json; charset=utf-8
+
+{"cms_user_auto_sign_out":"60","project_name":"Directus","project_url":"http:\/\/examplesite.dev\/","cms_color":"#7ac943","rows_per_page":"200","cms_thumbnail_url":""}

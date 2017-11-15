@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 15 Jun 2016 17:02:51 GMT
+Server: nginx
+Content-Length: 86
+Content-Type: application/json; charset=utf-8
+
+{"id":1,"active":1,"title":"Article 1","body":"Content","tags":"tags,tugs","author":1}

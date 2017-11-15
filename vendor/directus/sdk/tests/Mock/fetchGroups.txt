@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 15 Jun 2016 17:02:51 GMT
+Server: nginx
+Content-Length: 207
+Content-Type: application/json; charset=utf-8
+
+{"total":1,"rows":[{"id":1,"name":"Administrator","description":null,"restrict_to_ip_whitelist":0,"nav_override":null,"show_activity":1,"show_messages":1,"show_users":1,"show_files":1,"nav_blacklist":null}]}
